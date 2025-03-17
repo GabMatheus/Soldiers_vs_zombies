@@ -20,7 +20,7 @@ class Menu:
             self.menu_text(35, 'Soldiers vs Zombies' , COLOR_GOLD , ((WIN_WIDTH/2) , 50))
 
             for i in range(len(MENU_OPTION)):
-                self.menu_text(15 , MENU_OPTION[i], COLOR_WHITE , ((WIN_WIDTH/2) , 180 + 12 * i))
+                self.menu_text(15 , MENU_OPTION[i], COLOR_WHITE , ((WIN_WIDTH/2) , 185 + 12 * i))
 
             pygame.display.flip()
 
