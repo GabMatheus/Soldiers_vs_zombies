@@ -6,11 +6,11 @@ COLOR_YELLOW = (255,255,0)
 #E
 ENTITY_SPEED = {
     'Level1Bg0' : 0,
-    'Level1Bg1' : 1,
+    'Level1Bg1' : 1.5,
     'Level1Bg2' : 1.8,
-    'Level1Bg3' : 2,
-    'Level1Bg4' : 2.2,
-    'Level1Bg5' : 1.2
+    'Level1Bg3' : 1.5,
+    'Level1Bg4' : 2.5
+    #'Level1Bg5' : 1.2
 }
 
 #M
