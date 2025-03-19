@@ -49,4 +49,3 @@ class Level:
         self.window.blit(source=text_surf, dest=text_rect)
 
 
-
