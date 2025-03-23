@@ -47,7 +47,7 @@ ENTITY_SHOT_DELAY = {
     'Player1'   : 20,
     'Player2'   : 15,
     'Enemy1': 100,
-    'Enemy2': 200
+    'Enemy2': 150
 }
 
 #M
