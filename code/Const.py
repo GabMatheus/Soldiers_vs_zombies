@@ -1,8 +1,7 @@
-#C
 import pygame
-
 #from code.Player import Player
 
+#C
 C_GOLD = (212, 160, 28)
 C_WHITE = (255, 255, 255)
 C_YELLOW = (255, 255, 0)

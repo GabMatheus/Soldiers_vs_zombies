@@ -36,7 +36,8 @@ class Game:
                 pygame.quit()
                 quit()
             else:
-                pass
+                pygame.quit()
+                quit()
 
 if __name__ == "__main__":
     game = Game()
