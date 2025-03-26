@@ -52,20 +52,20 @@ ENTITY_HEALTH = {
     'Player1Shot' : 1,
     'Player2'   : 300,
     'Player2Shot' : 1,
-    'Enemy1'    : 60,
+    'Enemy1'    : 70,
     'Enemy1Shot': 1,
-    'Enemy2'    : 75,
+    'Enemy2'    : 85,
     'Enemy2Shot' : 1,
-    'Enemy3': 65,
+    'Enemy3': 75,
     'Enemy3Shot': 2
 }
 
 ENTITY_SHOT_DELAY = {
     'Player1'   : 18,
-    'Player2'   : 15,
-    'Enemy1': 100,
-    'Enemy2': 170,
-    'Enemy3': 150
+    'Player2'   : 14,
+    'Enemy1': 80,
+    'Enemy2': 150,
+    'Enemy3': 120
 }
 
 ENTITY_DAMAGE = {
@@ -136,7 +136,7 @@ PLAYER_KEY_SHOT = { 'Player1': pygame.K_RCTRL,
                     'Player2': pygame.K_LCTRL}
 
 #S
-SPAW_TIME = 1400
+SPAW_TIME = 1200
 
 #T
 TIMEOUT_STEP = 100
