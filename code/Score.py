@@ -5,7 +5,7 @@ import pygame
 from pygame import Surface, Rect, KEYDOWN, K_RETURN, K_BACKSPACE, K_ESCAPE
 from pygame.font import Font
 
-from code.Const import C_YELLOW, SCORE_POS, MENU_OPTION, C_WHITE, C_GOLD, C_BLUE, C_RED
+from code.Const import C_YELLOW, SCORE_POS, MENU_OPTION, C_WHITE, C_GOLD, C_RED
 from code.DBProxy import DBProxy
 
 

@@ -2,7 +2,6 @@
 #-*- coding: utf-8 -*-
 import random
 import sys
-from random import choice
 
 import pygame.display
 from pygame import Surface, Rect

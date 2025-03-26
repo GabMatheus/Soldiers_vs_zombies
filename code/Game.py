@@ -10,7 +10,7 @@ from code.Score import Score
 
 class Game:
     def __init__(self):
-        pygame.init()  # Inicializa o Pygame
+        pygame.init()  #Inicializa o Pygame
         self.window = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 
     def run(self):
